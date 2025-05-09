@@ -1,3 +1,4 @@
+./src/edu/ccu/students/logan/smarthome/ui/ControlPanel.java
 ./src/edu/ccu/students/logan/smarthome/repository/SmartHomeRepository.java
 ./src/edu/ccu/students/logan/smarthome/repository/SmartHomeRepositoryBuilder.java
 ./src/edu/ccu/students/logan/smarthome/core/SecureDevice.java
@@ -10,6 +11,12 @@
 ./src/edu/ccu/students/logan/smarthome/observer/SmartHomeObserver.java
 ./src/edu/ccu/students/logan/smarthome/observer/HomeEvent.java
 ./src/edu/ccu/students/logan/smarthome/controller/HomeController.java
+./src/edu/ccu/students/logan/smarthome/adapters/AdapterLoader.java
+./src/edu/ccu/students/logan/smarthome/adapters/ThermostatAdapter.java
+./src/edu/ccu/students/logan/smarthome/DeviceManager.java
+./src/edu/ccu/students/logan/smarthome/events/DeviceEventPublisher.java
+./src/edu/ccu/students/logan/smarthome/SmartDevice.java
+./src/edu/ccu/students/logan/smarthome/thirdparty/LegacyThermostat.java
 ./src/edu/ccu/students/logan/smarthome/factory/SmartDeviceFactory.java
 ./src/edu/ccu/students/logan/smarthome/devices/SmartLock.java
 ./src/edu/ccu/students/logan/smarthome/devices/SmartLight.java
